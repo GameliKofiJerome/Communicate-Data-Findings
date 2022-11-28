@@ -1,6 +1,12 @@
 # (FordGoBike Dataset Exploration)
 ## by (Jerome Gameli Kofi Davor)
 
+## Introduction
+In this project I analyze information that covers over 180K records of individual rides made in a bike-sharing system covering the greater San Francisco Bay area.
+
+This notebook is mainly aimed to get an overview of the dataset and answer important questions regarding bike trips (No., time, users, .....etc) which will be shown along the notebook via exploratory & explanatory data analysis & visualizations.
+
+Coding will be via python's different libraries for data analysis (Pandas, Matplotlib, Seaborn) for data wrangling, cleaning and creating storytelling visualizations.
 
 ## Dataset
 
